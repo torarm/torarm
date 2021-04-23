@@ -7,4 +7,4 @@
 <h2 align="center">Tori Armstrong</h2>
 <h5 align="center">23-year old data scientist who does data engineering, pipelines, APIs, ML/DL development, and NLP.</h5>
 <h4 align="left">
-  -
+  
